@@ -7,7 +7,7 @@ let notes = [
 ];
  
 const CATEGORIES = ["personal", "work", "study"];
- 
+ Open the Console (F12) to see the results.
 // 1. Keep only notes whose lower-case text contains the lower-case word
 function searchNotes(word) {
   const search = word.toLowerCase();
